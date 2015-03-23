@@ -1,0 +1,13 @@
+REM GENRE Anime
+REM DATE 2015
+TITLE "ABC"
+PERFORMER "mikako"
+FILE "template.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "A"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "B"
+    PERFORMER "mikako feat.kayano"
+    INDEX 00 00:04:23
+    INDEX 01 00:04:50
